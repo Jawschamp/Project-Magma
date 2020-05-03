@@ -1,14 +1,13 @@
 
 # Important Note: This file will hold the last few patches but please look in changelog.md if you don't see a certain patch
-# Patch Notes for Project Magma 0.0.1
+# Patch Notes for Project Magma 0.0.2
 ## Working
-* Currently Login/registration works
 * Message Lookups
 * Emoji/Gif
 * Presence Online/Offline users after login/logout/closed app/closed page
 
 ## Problems
-
+* Currently Login/registration does not save (planning a fix soon)
 ## Latest Fixes
 
 # Working on
