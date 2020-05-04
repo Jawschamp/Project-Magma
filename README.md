@@ -15,11 +15,11 @@
 ## Problems
 * Currently Login/registration does not save (planning a fix soon) all data isn't saving to the db and when Docker is rerun it all disperses
 * Messages don't save
-* Settings are not saving due to Accounts not saving correctl.  
+* Settings are not saving due to Accounts not saving correctly.  
 ## Latest Fixes
 
 # Working on
 * Voice calls/Screen share/Video calls and more Network fixes
 * DND/Idle/Invisible/online/custom status + extra features 
 * Getting this onto ezfn.net
-* Fix Saveing issue (hopefully next deploy) 
+* Fix Saving issue (hopefully next deploy) 
