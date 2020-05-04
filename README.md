@@ -11,7 +11,9 @@
 * Presence Online/Offline users after login/logout/closed app/closed page
 
 ## Problems
-* Currently Login/registration does not save (planning a fix soon) all data isn't saving to the db and when Docker is rerun it all disperses 
+* Currently Login/registration does not save (planning a fix soon) all data isn't saving to the db and when Docker is rerun it all disperses
+* Messages don't save
+* Settings are not saving due to Accounts not saving correctl.  
 ## Latest Fixes
 
 # Working on
