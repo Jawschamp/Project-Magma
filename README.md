@@ -19,3 +19,4 @@
 # Working on
 * Voice calls/Screen share/Video calls and more Network fixes
 * DND/Idle/Invisible/online/custom status + extra features 
+* Getting this onto ezfn.net
