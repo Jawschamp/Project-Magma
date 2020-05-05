@@ -26,3 +26,4 @@
 * DND/Idle/Invisible/online/custom status + extra features 
 * Getting this onto ezfn.net
 * Fix Saving issue (hopefully next deploy) 
+* Friends System
