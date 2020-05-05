@@ -1,9 +1,9 @@
 # Design Intentions
 ### Project Magma is designed to be the best chat app you've ever used. It's being designed with the intention of allowing our fully featured Api to be used by our community, alot of credit to Discord Inc. For the inspiration. More info soon. 
 ### Project Magma is all about websockets. I use websockets for everything. Presence updates to messages. 
-# Important Dates and details
-* I am currently looking into server hosting for this to run. 
-* Release date is dictated by when I grt the server setup and NGINX is ready. 
+# Important Dates and Details
+* I am currently looking into server hosting for this to run on. 
+* Release date is dictated by when I get the server setup and NGINX is ready. 
 # Features
 * File Uploads
 * Message lookup
