@@ -1,6 +1,7 @@
 # Design Intentions
 ### Project Magma is designed to be the best chat app you've ever used. It's being designed with the intention of allowing our fully featured Api to be used by our community, alot of credit to Discord Inc. For the inspiration. More info soon. 
-# Features 
+# Features
+* File Uploads
 * Message lookup
 * Emoji/Gif support
 * Code highlighing
