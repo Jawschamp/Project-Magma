@@ -1,3 +1,4 @@
+### Project Magma is designed to be a better/ more featured Chat app, alot of credit to Discord Inc. For the inspiration. More info soon. 
 # Features 
 * Message lookup
 * Emoji/Gif support
