@@ -1,4 +1,4 @@
-### Project Magma is designed to be the best chat app you've ever used more featured Chat app, alot of credit to Discord Inc. For the inspiration. More info soon. 
+### Project Magma is designed to be the best chat app you've ever used. It's being designedwwith the intention to allowing a very fully featured Api Chat app, alot of credit to Discord Inc. For the inspiration. More info soon. 
 # Features 
 * Message lookup
 * Emoji/Gif support
