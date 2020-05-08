@@ -1,3 +1,5 @@
+# Some stuff
+* Right now I am getting a team to accelerate this Porject!
 # Discuss
 * Video Upload (montages on profile) 
 * Music Player (only uploaded from pc) 
