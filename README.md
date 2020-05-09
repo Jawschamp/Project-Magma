@@ -38,3 +38,4 @@ JawsChamp
 * Getting this onto ezfn.net
 * Fix Saving issue (hopefully next deploy) 
 * Friends System
+© 2020 - JawsChamp
