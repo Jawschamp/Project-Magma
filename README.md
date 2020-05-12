@@ -1,7 +1,7 @@
 # Coders
-JawsChamp
+Jawschamp (frontend and most backend stuff.) 
 # Some stuff
-* Right now I am getting a team to accelerate this Porject!
+* Right now I am getting a team to accelerate this Project!
 # Discuss
 * Video Upload (montages on profile) 
 * Music Player (only uploaded from pc) 
