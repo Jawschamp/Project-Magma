@@ -1,5 +1,6 @@
 # Coders
-Jawschamp (frontend and most backend stuff.) 
+Jawschamp (Python Dev, deals with most backend stuff).) 
+Dang1172 (JavaScript Dev) 
 # Some stuff
 * Right now I am getting a team to accelerate this Project!
 # Discuss
