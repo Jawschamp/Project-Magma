@@ -4,7 +4,7 @@
 # Some stuff
 * Right now I am getting a team to accelerate this Project!
 # Discuss
-* Video Upload (montages on profile) 
+* Video Upload (montages on profile) (really wanna use the DAWG needforbeans's site: https://gaming.nulltx.com/clips) 
 * Music Player (only uploaded from pc) 
 # Design Intentions
 ### Project Magma is designed to be the best chat app you've ever used. It's being designed with the intention of allowing our fully featured Api to be used by our community, alot of credit to Discord Inc. For the inspiration. More info soon. 
