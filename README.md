@@ -1,6 +1,6 @@
 # Coders
-* Jawschamp (Python Dev, deals with most backend stuff)
-* Dang1172 (JavaScript Dev) 
+* Jawschamp (Python, Dev, I deal with most backend stuff)
+* Dang1172 (Javascript, Dev I deal with WEBRTC stuff.) 
 # Some stuff
 * Right now I am getting a team to accelerate this Project!
 # Discuss
